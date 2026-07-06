@@ -40,5 +40,4 @@ public class TotalNumberInCols {
         System.out.print("Tong cac so trong cot " + colIndex + " la: " + total);
         input.close();
     }
-
 }
